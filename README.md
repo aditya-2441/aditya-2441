@@ -3,11 +3,11 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40" style="margin: 0 10px;" />
+  <a href="mailto:your.email@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40" style="margin: 0 10px; vertical-align: middle;" />
   </a>
-  <a href="https://www.linkedin.com/in/aditya-singh-748253237/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="margin: 0 10px;" />
+  <a href="https://www.linkedin.com/in/aditya-singh-748253237/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="margin: 0 10px; vertical-align: middle;" />
   </a>
 </p>
 
