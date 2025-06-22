@@ -2,12 +2,12 @@
 <p align="center"><i>CS Undergrad · Web Developer · AI/ML Learner</i></p>
 
 <!-- Social Badges -->
-<p align="center">
-  <a href="mailto:your.email@gmail.com" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="40" style="margin: 0 10px; vertical-align: middle;" />
+<p align="center" style="line-height: 0;">
+  <a href="mailto:your.email@gmail.com" target="_blank" style="text-decoration: none; display: inline-block; vertical-align: middle;">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" style="height: 44px; margin: 0 10px; display: block;" />
   </a>
-  <a href="https://www.linkedin.com/in/aditya-singh-748253237/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="margin: 0 10px; vertical-align: middle;" />
+  <a href="https://www.linkedin.com/in/aditya-singh-748253237/" target="_blank" style="text-decoration: none; display: inline-block; vertical-align: middle;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="height: 44px; margin: 0 10px; display: block;" />
   </a>
 </p>
 
